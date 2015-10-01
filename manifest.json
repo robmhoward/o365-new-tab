@@ -1,0 +1,16 @@
+{
+  "name": "My O365 Apps New Tab Page",
+  "description": "Override the new tab page with your O365 Apps",
+  "version": "0.2",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "apps.html"
+  },
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "content_security_policy": "script-src 'self' https://code.jquery.com https://ajax.googleapis.com; object-src 'self'",
+  "web_accessible_resources": [ "https://code.jquery.com/jquery-1.11.3.min.js"],
+  "manifest_version": 2
+}

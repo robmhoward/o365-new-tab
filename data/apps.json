@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Smartsheet",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%220d0c06fa-3815-4af6-aea3-5c551f8046ad%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%223290e3f7-d3ac-4165-bcef-cf4874fc4270%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/Smartsheet/3290e3f7-d3ac-4165-bcef-cf4874fc4270"
+	},
+	{
+		"name": "Docusign",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%224613229c-762e-4be3-b23d-c48ddde7d6ac%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%22dff9b531-6290-4620-afce-26826a62a4e7%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/DocuSign/dff9b531-6290-4620-afce-26826a62a4e7"
+	},
+	{
+		"name": "Do",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%22a81151f3-a35f-4801-987e-7680bd8132b2%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%2296c496a2-c1a3-44df-a080-28ebf41b3482%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/Do/96c496a2-c1a3-44df-a080-28ebf41b3482"
+	},
+	{
+		"name": "Office 365 OAuth2 Sandbox",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%228fe65727-a266-4bc7-8e16-8841724b9d68%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%22c3d529a5-a017-4cd3-8c62-04dafd43d64d%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/Office%20365%20OAuth2%20Sandbox/c3d529a5-a017-4cd3-8c62-04dafd43d64d"
+	},
+	{
+		"name": "EasyBib",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%222903d47c-12bc-4022-be35-eb0e95135e22%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%22f369edf2-2517-461b-a5cd-93a89016d95f%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/EasyBib/f369edf2-2517-461b-a5cd-93a89016d95f"
+	}
+]

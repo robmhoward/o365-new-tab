@@ -1,0 +1,10 @@
+<div ng-repeat="app in apps" class="myapps-tile">
+    <a href="{{app.launchUrl}}" class="myapps-tile-outeranchor" title="{{app.name}}">
+        <div class="myapps-tile-inner">
+            <div class="myapps-tile-icon ms-bgc-tp"><img ng-src="{{app.logo}}" class="myapps-tile-img"></div>
+            <div>
+                <span class="myapps-tile-title-text">{{app.name}}</span>
+            </div>
+        </div>
+    </a>
+</div>
