@@ -23,5 +23,15 @@
 		"name": "EasyBib",
 		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%222903d47c-12bc-4022-be35-eb0e95135e22%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%22f369edf2-2517-461b-a5cd-93a89016d95f%22%7d%5d%7d",
 		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/EasyBib/f369edf2-2517-461b-a5cd-93a89016d95f"
+	},
+	{
+		"name": "O365 Mail Responder",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%22157d38cf-a658-4905-bca1-fc7b7eb515d6%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%22b0d30e41-04d2-4dbd-9bee-a5bf5024f1ca%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/Mail%20Responder/b0d30e41-04d2-4dbd-9bee-a5bf5024f1ca"
+	},
+	{
+		"name": "Explee",
+		"logo": "https://portal.office.com/Apps/AppIconHandler.ashx?jsonAppData=%7b%22AppType%22%3a4%2c%22CollectorId%22%3a%22Graph%22%2c%22Id%22%3a%22444a726f-7601-49ac-9cf5-42cb2591bf91%22%2c%22IsPartialData%22%3afalse%2c%22Properties%22%3a%5b%7b%22Key%22%3a%22ServicePrincipalAppId%22%2c%22Value%22%3a%2217424a2a-2d9f-4a7a-be38-a718f2bf7145%22%7d%5d%7d",
+		"launchUrl": "https://account.activedirectory.windowsazure.com/applications/signin/Explee/17424a2a-2d9f-4a7a-be38-a718f2bf7145"
 	}
 ]
